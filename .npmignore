@@ -1,0 +1,7 @@
+/node_modules/
+/src/
+/dist/
+
+index.html
+other.gulpfile.js
+.eslintrc
